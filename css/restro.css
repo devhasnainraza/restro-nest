@@ -38,7 +38,7 @@ footer span a { color: #FFF; }
 }
 
 .tm-text-gold {
-    color: #CC9966;
+    color: #fc6;
 }
 
 .tm-text-brown {
@@ -62,7 +62,7 @@ a.tm-bg-green:hover {
 }
 
 .tm-border-gold {
-    border-color: #CC9966;
+    border-color: #fc6;
 }
 
 .tm-intro-width {
@@ -75,7 +75,7 @@ a.tm-bg-green:hover {
 
 .input:focus {
     outline: none !important;
-    border:1px solid #CC9966;
+    border:1px solid #fc6;
     box-shadow: 0 0 10px #b67533;
 }
 
@@ -111,7 +111,7 @@ textarea::-ms-input-placeholder { /* Microsoft Edge */
 
 #tm-nav li a.current,
 #tm-nav li a:hover {
-      border-bottom: 4px solid #CC9966;
+      border-bottom: 4px solid #fc6;
 }
 
 .tm-text-2xl {
